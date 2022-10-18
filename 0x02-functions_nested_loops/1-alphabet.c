@@ -2,6 +2,7 @@
 
 /**
  * print_alphabet - Print lowercase alphabets with _putchar
+ * from a to z
  */
 void print_alphabet(void)
 {
