@@ -2,12 +2,14 @@
 
 /**
  * prints all alphabets 10 times in a nested loop
+ * Description: Prints all alphabets ten times
  */
 
 void print_alphabet_x10(void)
 {
-	char i, j;
-	for (j = 0; j < 10; j++)
+	char i, b;
+
+	for (b = 0; b < 10; b++)
 	{
 		for (i = 'a'; i <= 'z'; i++)
 		{
