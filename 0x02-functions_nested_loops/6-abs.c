@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _abs - _absolute value
+ * _abs - _abs function
  * Return : int
  * @n : haracter
  * Description: func that return absolute value of a number
