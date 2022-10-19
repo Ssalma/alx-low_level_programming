@@ -4,6 +4,7 @@
  * _islower - is lower func
  * @c: character to be checked
  * Description: return 1 if char is lower else 0
+ * Return: int if character is lower
  */
 
 int _islower(char c)
@@ -14,4 +15,4 @@ int _islower(char c)
 	}
 
 	return (0);
-}	
+}
