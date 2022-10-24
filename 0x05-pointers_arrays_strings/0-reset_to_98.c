@@ -2,7 +2,8 @@
 
 /**
  * reset_to_98 - rest a value to 98
- * Description: function that takes a pointer to an int as parameter and updates the value it points to to 98
+ * Description: funct takes a pointer to an int as param n updates
+ * e val it points to 98
  * Return: int
  * @n: pointer to a number
  */
